@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Multicolored Sky -25 colors-",
+  "base_artist": "SHINY COLORS",
+  "createdAt": "2026-01-11T08:49:44.247713Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Multicolored Sky -25 colors-",
+      "artist": "シャイニーカラーズ",
+      "has_synced": true,
+      "path": "select/01_Multicolored_Sky_-25_colors-_シャイニーカラーズ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Multicolored Sky",
+      "artist": "シャイニーカラーズ",
+      "has_synced": true,
+      "path": "select/02_Multicolored_Sky_シャイニーカラーズ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Multicolored Sky -25 colors-",
+      "artist": "SHINY COLORS",
+      "has_synced": true,
+      "path": "select/03_Multicolored_Sky_-25_colors-_SHINY_COLORS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Multicolored Sky (2023 Version)",
+      "artist": "SHINY COLORS",
+      "has_synced": true,
+      "path": "select/04_Multicolored_Sky_(2023_Version)_SHINY_COLORS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Multicolored Sky",
+      "artist": "シャイニーカラーズ",
+      "has_synced": false,
+      "path": "select/pl_01_Multicolored_Sky_シャイニーカラーズ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Multicolored Sky",
+      "artist": "シャイニーカラーズ",
+      "has_synced": false,
+      "path": "select/pl_02_Multicolored_Sky_シャイニーカラーズ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Multicolored Sky -19 colors-",
+      "artist": "シャイニーカラーズ",
+      "has_synced": false,
+      "path": "select/pl_03_Multicolored_Sky_-19_colors-_シャイニーカラーズ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Multicolored Sky -28 colors-",
+      "artist": "シャイニーカラーズ",
+      "has_synced": false,
+      "path": "select/pl_04_Multicolored_Sky_-28_colors-_シャイニーカラーズ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Multicolored Sky - 2023 Version",
+      "artist": "シャイニーカラーズ",
+      "has_synced": false,
+      "path": "select/pl_05_Multicolored_Sky_-_2023_Version_シャイニーカラーズ.txt"
+    }
+  ]
+}
